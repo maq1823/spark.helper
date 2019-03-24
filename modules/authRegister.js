@@ -10,7 +10,7 @@ const internals = {};
 
 exports.plugin = {
 
-    name: 'auth',
+    name: 'authRegister',
     version: '1.0.0',
     description: 'registers jwt2 auth plugin',
     register: function (server, options) {
